@@ -43,6 +43,7 @@ border: 3px solid white;
 .box {
 border-radius: 10px;
 box-shadow: inset;
-margin: 150px;
+margin-top: 150px;
 padding: 30px;
+background-color: antiquewhite;
 }
