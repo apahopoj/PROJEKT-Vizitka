@@ -13,4 +13,24 @@ tlačítko Twitter aktivní:	 #0b7bc1
 tlačítko Facebook:				 #3b5998
 tlačítko Facebook aktivní: #2b406e
 */
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+font-size: 36px; 
+color: #d63031;  
+font-weight: bold;
+}
+
+p {
+font-size: 18px;
+}
+
+a {
+font-size: 18px;
+font-weight: bold;
+text-transform: uppercase;
+
+}
 
