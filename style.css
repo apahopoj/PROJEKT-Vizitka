@@ -31,6 +31,10 @@ a {
 font-size: 18px;
 font-weight: bold;
 text-transform: uppercase;
-
 }
 
+img {
+width: 150px;
+border-radius: 50px;
+
+}
