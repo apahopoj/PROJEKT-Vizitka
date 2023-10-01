@@ -15,6 +15,7 @@ tlačítko Facebook aktivní: #2b406e
 */
 body {
     font-family: 'Nunito', sans-serif;
+    background-color: #b2bec3
 }
 
 h1 {
@@ -35,6 +36,11 @@ text-transform: uppercase;
 
 img {
 width: 150px;
-border-radius: 50px;
+border-radius: 50%;
 border: 3px solid white;
+}
+
+.box {
+border-radius: 10px;
+box-shadow: inset;    
 }
