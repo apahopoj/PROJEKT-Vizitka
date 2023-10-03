@@ -60,6 +60,7 @@ padding: 0;
 
 .tlacitka li{
 text-align: center;
+display: block;
 }
 
 .tlacitka a {
@@ -72,7 +73,9 @@ background-color: #1da1f2;
 margin-bottom: 5px;
 border-radius: 5px;
 display: inline-block;
-    }
+height: 45px;
+width: 500px;
+}
 
 .tlacitka a:hover,
 .tlacitka a:focus,
