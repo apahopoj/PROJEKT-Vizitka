@@ -49,8 +49,8 @@ img {
     border: 3px solid white;
     box-shadow: 7px 7px 7px grey;
     position: absolute;
-    right: −75px;
-    top:−75px;
+    left: 625px;
+    bottom:75px;
     }
 
 .tlacitka {
@@ -61,7 +61,6 @@ padding: 0;
 .tlacitka li{
 text-align: center;
 display: block;
-padding: 10px;
 }
 
 .tlacitka a {
@@ -75,6 +74,7 @@ margin-bottom: 5px;
 border-radius: 5px;
 display: inline-block;
 width: 500px;
+margin: 10px;
 }
 
 .tlacitka a:hover,
