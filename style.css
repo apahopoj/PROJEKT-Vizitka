@@ -30,13 +30,6 @@ font-size: 18px;
 margin-bottom: 30px;
 }
 
-img {
-width: 150px;
-border-radius: 50%;
-border: 3px solid white;
-box-shadow: 7px 7px 7px grey;
-}
-
 .box {
 border-radius: 10px;
 box-shadow: 7px 7px 7px grey;
@@ -47,7 +40,18 @@ width: 550px;
 margin-left: auto;
 margin-right: auto;
 text-align: justify;
+position: relative;
 }
+
+img {
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 7px 7px 7px grey;
+    position: absolute;
+    right: 0;
+    top:0;
+    }
 
 .tlacitka {
 margin: 0;
