@@ -44,7 +44,8 @@ margin-top: 150px;
 padding: 30px;
 background-color: white;
 width: 550px;
-align: center;
+margin-left: auto;
+margin-right: auto;
 }
 
 .tlacitka {
