@@ -76,8 +76,22 @@ display: block;
 margin: 10px;
 }
 
-.tlacitka a:hover,
-.tlacitka a:focus,
-.tlacitka a:active {
+.atwitter  {
+background-color: #1da1f2;
+}
+
+.atwitter a:hover,
+.atwitter a:focus,
+.atwitter a:active {
 background-color: #0b7bc1;
 }
+
+.afacebook  {
+    background-color: #3b5998;
+    }
+    
+.afacebook a:hover,
+.afacebook a:focus,
+.afacebook a:active {
+    background-color: #2b406e;
+    }
