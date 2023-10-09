@@ -76,22 +76,22 @@ padding: 10px;
 height: 40px;
 }
 
-.atwitter  {
+.twitter  {
 background-color: #1da1f2;
 }
-
-.atwitter a:hover,
-.atwitter a:focus,
-.atwitter a:active {
+    
+.twitter:hover,
+.twitter:focus,
+.twitter:active {
 background-color: #0b7bc1;
 }
-
-.afacebook  {
-    background-color: #3b5998;
-    }
     
-.afacebook a:hover,
-.afacebook a:focus,
-.afacebook a:active {
-    background-color: #2b406e;
-    }
+.facebook  {
+background-color: #3b5998;
+}
+    
+.facebook:hover,
+.facebook:focus,
+.facebook:active {
+background-color: #2b406e;
+}
